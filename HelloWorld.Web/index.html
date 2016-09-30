@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html ng-app="helloworld">
+<head>
+    <title></title>
+
+    <meta charset="utf-8" />
+    <style type="text/css">
+        [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+    </style>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/bootstrap-theme.css" rel="stylesheet" />
+</head>
+<body ng-controller="HelloWorldCtlr as vm">
+    <div  ng-cloak class="container">
+        <div class="jumbotron">
+            <h1>{{vm.value}}</h1>
+        </div>
+    </div>
+
+    <script src="Scripts/jquery-1.9.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/angular.min.js"></script>
+    <script src="app/main.js"></script>
+    <script src="app/services/helloWorldService.js"></script>
+    <script src="app/controllers/helloWorldController.js"></script>
+</body>
+</html>

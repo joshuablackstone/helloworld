@@ -1,0 +1,5 @@
+C:\Users\jblackstone1266\Desktop\HelloWorld\HelloWorld.Web\bin\HelloWorld.Web.dll.config
+C:\Users\jblackstone1266\Desktop\HelloWorld\HelloWorld.Web\bin\HelloWorld.Web.dll
+C:\Users\jblackstone1266\Desktop\HelloWorld\HelloWorld.Web\bin\HelloWorld.Web.pdb
+C:\Users\jblackstone1266\Desktop\HelloWorld\HelloWorld.Web\obj\Debug\HelloWorld.Web.dll
+C:\Users\jblackstone1266\Desktop\HelloWorld\HelloWorld.Web\obj\Debug\HelloWorld.Web.pdb
